@@ -19,7 +19,7 @@ To run this project on your local machine, ensure you have the [Java JDK](https:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YourUsername/KarayollariProject.git](https://github.com/YourUsername/KarayollariProject.git)
+    git clone [https://github.com/Beyazt43/KarayollariProject.git](https://github.com/Beyazt43/KarayollariProject.git)
     ```
 2.  **Navigate to the project directory**
     ```bash
