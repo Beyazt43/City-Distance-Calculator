@@ -12,7 +12,7 @@ A Java-based simulation tool that generates random travel routes between cities 
 
 ##  Built With
 * **Language:** Java
-* **Concepts:** Arrays/ArrayLists, Randomization (`java.util.Random`), Control Flow Loops, Iterative Logic.
+* **Concepts:** Maps/Hashmaps, LinkedLists, Arrays/ArrayLists, Randomization (`java.util.Random`), Control Flow Loops.
 
 ##  How to Run
 To run this project on your local machine, ensure you have the [Java JDK](https://www.oracle.com/java/technologies/downloads/) installed.
@@ -29,14 +29,12 @@ To run this project on your local machine, ensure you have the [Java JDK](https:
     ```bash
     javac KarayollariProject.java
     ```
-    *(Note: Replace `Main.java` with the actual name of your main file if it's different)*
 
 4.  **Run the application**
     ```bash
     java KarayollariProject
     ```
 
-Author
-Hasan Beyazıt Akpınar
-Computer Engineering Student
+Author **
+Hasan Beyazıt Akpınar **
 www.linkedin.com/in/hasan-beyazıt-akpınar-175484331
