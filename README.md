@@ -35,6 +35,5 @@ To run this project on your local machine, ensure you have the [Java JDK](https:
     java KarayollariProject
     ```
 
-Author **
-Hasan Beyazıt Akpınar **
-www.linkedin.com/in/hasan-beyazıt-akpınar-175484331
+Author:
+Hasan Beyazıt Akpınar     www.linkedin.com/in/hasan-beyazıt-akpınar-175484331
