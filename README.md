@@ -27,13 +27,13 @@ To run this project on your local machine, ensure you have the [Java JDK](https:
     ```
 3.  **Compile the source code**
     ```bash
-    javac Main.java
+    javac KarayollariProject.java
     ```
     *(Note: Replace `Main.java` with the actual name of your main file if it's different)*
 
 4.  **Run the application**
     ```bash
-    java Main
+    java KarayollariProject
     ```
 
 Author
